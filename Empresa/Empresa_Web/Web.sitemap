@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Default.aspx" title="Home"  description="">
+    <siteMapNode url="" title="Estaciones de Servicio"  description="">
+    <siteMapNode url="RegistrarEstacion.aspx" title="Nueva Estación de Servicio"  description="" />
+    <siteMapNode url="VerEstaciones.aspx" title="Ver todas las Estaciones de Servicio"  description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="Puntos de carga"  description="">
+      <siteMapNode url="RegistrarPuntoDeCarga.aspx" title="Nuevo Punto de Carga"  description="" />
+      <siteMapNode url="VerPuntosDeCarga.aspx" title="Ver todos los Puntos de Carga"  description="" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>
