@@ -4,7 +4,7 @@
     <div class="bg-light">
         
         <div class="container offset-4 bg-light">
-            <div class="card-header bg-primary text-white col-xl-3">
+            <div class="card-header bg-dark text-white col-xl-3">
                 Ingresar Estación de Servicio
             </div>
             <div class="form-group col-xl-3">

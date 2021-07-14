@@ -7,8 +7,8 @@
     </div>
     <div class="container offset-4 bg-light">
 
-        <div class="card-header bg-primary text-white col-xl-3">
-            Ingresar Punto de Carga
+        <div class="card-header bg-dark text-white col-xl-3">
+            Editar Punto de Carga
         </div>
        
             <div class="form-group col-xl-3">
@@ -45,7 +45,7 @@
       
         <br />
             <div > 
-        <asp:Button ID="ActualizarBtn" runat="server" Text="Atualizar Estación" CssClass="btn btn-dark" OnClick="ActualizarBtn_Click" />
+        <asp:Button ID="ActualizarBtn" runat="server" Text="Actualizar Estación" CssClass="btn btn-dark" OnClick="ActualizarBtn_Click" />
         </div>
 
             
